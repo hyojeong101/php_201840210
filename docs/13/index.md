@@ -2,9 +2,9 @@
 수업내용 정리
 
 화면 캡쳐
-![img](./images13/1.png)
-![img](./images13/2.png)
-![img](./images13/3.png)
+![img](./images13/1.png)<br>
+![img](./images13/2.png)<br>
+![img](./images13/3.png)<br>
 
 
 
