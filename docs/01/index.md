@@ -6,7 +6,9 @@
 Html 사용해서 ’hello world’ 화면에 보여주기
 ![img](./images/그림2.png)
 <h1><h2>…<h6>로 크기 조절해서 출력
+
 ![img](./images/그림3.png)
+
 Php 설치를 해줍니다
 ![img](./images/그림4.png)
 ![img](./images/그림5.png)
